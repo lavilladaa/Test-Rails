@@ -4,6 +4,7 @@ RSpec.describe Auction, type: :model do
   let(:seller) {
     User.new(:email => "jane@doe.com", :password => "pw1234")
   }
+
   subject {
     described_class.new(title: "Anything",
                         description: "Lorem ipsum",
