@@ -1,0 +1,16 @@
+current directory: /home/usuario/Desktop/Kommit/Test-project/auctions/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+/home/usuario/.rbenv/versions/3.1.2/bin/ruby -I /home/usuario/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/usuario/Desktop/Kommit/Test-project/auctions/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220809-8207-pzbdlf sitelibdir\=./.gem.20220809-8207-pzbdlf clean
+
+current directory: /home/usuario/Desktop/Kommit/Test-project/auctions/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220809-8207-pzbdlf sitelibdir\=./.gem.20220809-8207-pzbdlf
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/usuario/Desktop/Kommit/Test-project/auctions/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20220809-8207-pzbdlf sitelibdir\=./.gem.20220809-8207-pzbdlf install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20220809-8207-pzbdlf
